@@ -8,7 +8,7 @@
 
 <br/>
 
-Soy un desarrollador con gran interés en el aprendizaje y en compartir el conocimiento con los demás. Busco nuevos desafíos y mejores formas de realizar mi labor. Me gusta mantenerme actualizado leyendo artículos relacionados con mi stack tecnológico y con el impacto de la inteligencia artificial en el desarrollo de software.
+Soy un desarrollador con gran interés en el aprendizaje, en la busqueda de nuevos desafíos y en compartir el conocimiento con los demás. Me gusta mantenerme actualizado por medio de artículos relacionados con mi stack tecnológico y con el impacto de la inteligencia artificial en el desarrollo de software, permitiendome mejorar en su uso como herramienta potencializadora.
 
 🌱 En mi tiempo libre, además de aprender, disfruto correr, nadar y compartir con mi familia.
 
@@ -25,5 +25,4 @@ Soy un desarrollador con gran interés en el aprendizaje y en compartir el conoc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="30" />
 </p>
 
-- 📖 Actualmente me encuentro actualizando mi conocimiento a .NET 9.
-- 🔎 Me gusta investigar y mejorar en el uso de la inteligencia artificial como herramienta potencializadora de mi labor como desarrollador.
+- 📖 Actualmente estoy actualizando mis conocimientos en .NET 9.
