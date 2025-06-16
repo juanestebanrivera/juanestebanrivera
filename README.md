@@ -8,7 +8,7 @@
 
 <br/>
 
-Soy un desarrollador con gran interés en el aprendizaje, en la busqueda de nuevos desafíos y en compartir el conocimiento con los demás. Me gusta mantenerme actualizado por medio de artículos relacionados con mi stack tecnológico y con el impacto de la inteligencia artificial en el desarrollo de software, permitiendome mejorar en su uso como herramienta potencializadora.
+Soy un desarrollador con gran interés en el aprendizaje, en la búsqueda de nuevos desafíos y en compartir el conocimiento con los demás. Me gusta mantenerme actualizado por medio de artículos relacionados con mi stack tecnológico y con el impacto de la inteligencia artificial en el desarrollo de software, permitiéndome mejorar en su uso como herramienta potencializadora.
 
 🌱 En mi tiempo libre, además de aprender, disfruto correr, nadar y compartir con mi familia.
 
