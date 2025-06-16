@@ -1,6 +1,6 @@
 <img src="https://github.com/JuanRIvera0103/JuanRivera0103/blob/main/github-banner.webp">
 <section align="center">
-    <a href="www.linkedin.com/in/juanriveradev" target="_blank">
+    <a href="https://www.linkedin.com/in/juanriveradev" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <!-- TODO: Add portfolio -->
