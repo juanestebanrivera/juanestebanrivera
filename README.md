@@ -8,9 +8,10 @@
 
 <br/>
 
-Soy un desarrollador que le apasiona el aprendizaje, la búsqueda de nuevos desafíos y compartir el conocimiento con los demás. Me gusta mantenerme actualizado por medio de artículos relacionados con mi stack tecnológico y con el impacto de la inteligencia artificial en el desarrollo de software, permitiéndome mejorar en su uso como herramienta potencializadora.
-
-🌱 En mi tiempo libre, además de aprender, disfruto correr, nadar y compartir con mi familia.
+- Desarrollador Backend apasionado por el aprendizaje continuo y en la búsqueda de nuevos desafíos.
+- Interesado en investigar acerca del impacto de la inteligencia artificial en el desarrollo de software, permitiéndome mejorar en su uso como herramienta potencializadora.
+- Me gusta compartir el conocimiento con los demás.
+- 🌱 En mi tiempo libre, además de aprender, disfruto de correr, nadar y compartir con mi familia.
 
 ## Habilidades y herramientas
 
