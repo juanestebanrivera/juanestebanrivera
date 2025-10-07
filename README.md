@@ -8,7 +8,7 @@
 <ul>
     <li>Diseño de arquitecturas limpias y escalables.</li>
     <li>Go como segundo lenguaje backend.</li>
-    <li>Fundamentos de soluciones en la nube (AWS)</li>
+    <li>Fundamentos de soluciones en la nube (AWS).</li>
 </ul>
 
 <h3>Stack principal</h3>
