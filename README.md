@@ -16,15 +16,19 @@ Me gusta ir más allá del código, comprendiendo el propósito detrás de cada 
     <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
     </a>
+    <span style="width: 8px;"> </span>
     <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
     </a>
+    <span style="width: 8px;"> </span>
     <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
     </a>
+    <span style="width: 8px;"> </span>
     <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="Postman" />
     </a>
+    <span style="width: 8px;"> </span>
     <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio" />
     </a>
@@ -35,6 +39,7 @@ Me gusta ir más allá del código, comprendiendo el propósito detrás de cada 
     <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="Go"/>
     </a>
+    <span style="width: 8px;"> </span>
     <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="Amazon Web Services"/>
     </a>
