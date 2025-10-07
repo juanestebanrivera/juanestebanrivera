@@ -1,29 +1,37 @@
-<img src="https://github.com/JuanRIvera0103/JuanRivera0103/blob/main/github-banner.webp">
-<section align="center">
-    <a href="https://www.linkedin.com/in/juanriveradev" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <!-- TODO: Add portfolio -->
-</section>
+<img src="github-banner.webp" alt="Juan Esteban Rivera - Backend Developer">
 
-<br/>
+<h2 align="center">¡Bienvenid@ 👋!</h2>
 
-- Desarrollador Backend apasionado por el aprendizaje continuo y en la búsqueda de nuevos desafíos.
-- Interesado en investigar acerca del impacto de la inteligencia artificial en el desarrollo de software, permitiéndome mejorar en su uso como herramienta potencializadora.
-- Me gusta compartir el conocimiento con los demás.
-- 🌱 En mi tiempo libre, además de aprender, disfruto de correr, nadar y compartir con mi familia.
+Soy un apasionado por crear soluciones de software escalables, que generen valor a las personas y las organizaciones.
 
-## Habilidades y herramientas
+Me gusta ir más allá del código, comprendiendo el propósito detrás de cada decisión técnica y su impacto en la experiencia del usuario final.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="30" />
+### Actualmente aprendiendo
+- Diseño de arquitecturas limpias y escalables.
+- Go como segundo lenguaje backend.
+- Fundamentos de soluciones en la nube (AWS)
+
+### Stack principal
+<p align="left">          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="Postman" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio" />
+
 </p>
 
-- 📖 Actualmente estoy actualizando mis conocimientos en .NET 9.
+### En aprendizaje / proyección
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="Go"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="Amazon Web Services"/>
+</p>
+
+
+<h2 align="center">Conecta conmigo 🤝</h2>
+
+<section align="center">
+    <a href="https://www.linkedin.com/in/juanestebanrivera" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</section>
