@@ -1,44 +1,35 @@
 <img src="github-banner.webp" alt="Juan Esteban Rivera - Backend Developer">
 
-<h2 align="center">¡Bienvenid@ 👋!</h2>
-<p>Soy un apasionado por crear soluciones de software escalables que generen valor a las personas y las organizaciones.</p>
-<p>Me gusta ir más allá del código, comprendiendo el propósito detrás de cada decisión técnica y su impacto en la experiencia del usuario.</p>
+<h2 align="center">¡Hola! Soy Juan 👋</h2>
 
-<h3>Actualmente estoy aprendiendo</h3>
-<ul>
-    <li>Diseño de arquitecturas limpias y escalables.</li>
-    <li>Go como segundo lenguaje backend.</li>
-    <li>Fundamentos de soluciones en la nube (AWS).</li>
-</ul>
+Desarrollador Backend con 4 años de experiencia en .NET (C#). Me enfoco en diseñar software de calidad que transforme ideas en soluciones escalables y eficientes, aplicando principios de arquitecturas limpias y código limpio.
 
-<h3>Stack principal</h3>
-<p align="left">
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="45px" alt="C#" />
-    </a>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="45px" alt=".NET Core" />
-    </a>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="45px" alt="Git" />
-    </a>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" width="45px" alt="Postman" />
-    </a>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" width="45px" alt="Visual Studio" />
-    </a>
-</p>
+A lo largo de mi trayectoria, he desarrollado módulos importantes de negocio y optimizado flujos de CI/CD, logrando reducir tiempos hasta en un 50%.
 
-<h3>En aprendizaje</h3>
-<p align="left">
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" width="45px" alt="Go"/>
-    </a>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="45px" alt="Amazon Web Services"/>
-    </a>
-</p>
+### Stack principal
+
+Lenguajes:
+
+![C#](https://img.shields.io/badge/-C%23-512bd4)
+![.NET](https://img.shields.io/badge/-.NET-512BD4)
+![EF](https://img.shields.io/badge/-Entity_Framework-512BD4)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-512BD4)
+
+Arquitecturas y patrones:
+
+![API Rest](https://img.shields.io/badge/-API_Rest-546872)
+![SOLID](https://img.shields.io/badge/-SOLID-546872)
+![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-546872)
+![CQRS](https://img.shields.io/badge/-CQRS-546872)
+![DDD](https://img.shields.io/badge/-DDD-546872)
+
+Herramientas:
+
+![Jira](https://img.shields.io/badge/-Jira-0052CC)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-087cd5)
+![Git](https://img.shields.io/badge/-Git-F05032)
+
 
 <h2 align="center">Conecta conmigo 🤝</h2>
 <p align="center">
