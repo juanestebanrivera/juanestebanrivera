@@ -1,21 +1,25 @@
-<img src="github-banner.webp" alt="Juan Esteban Rivera - Backend Developer">
+![Banner Backend Developer .NET / Software Architecture](github-banner.webp)
 
 <h2 align="center">¡Hola! Soy Juan 👋</h2>
 
-Desarrollador Backend con 4 años de experiencia en .NET (C#). Me enfoco en diseñar software de calidad que transforme ideas en soluciones escalables y eficientes, aplicando principios de arquitecturas limpias y código limpio.
+Desarrollador Backend con 4 años de experiencia en el ecosistema .NET (C#). Me enfoco en diseñar software de calidad que transforme ideas en soluciones escalables y eficientes.
 
-A lo largo de mi trayectoria, he desarrollado módulos importantes de negocio y optimizado flujos de CI/CD, logrando reducir tiempos hasta en un 50%.
+A lo largo de mi trayectoria, he:
+
+- Desarrollado módulos core de negocio, permitiendo automatizar el 100% de procesos manuales y reduciendo la carga operativa.
+- Optimizado flujos de integración y despliegue continuo (CI/CD), logrando reducciones del tiempo de despliegue en producción de hasta un 50%.
+- Implementado soluciones escalables y eficientes, aplicando principios de Clean Architecture, DDD, CQRS y SOLID.
 
 ### Stack principal
 
-Lenguajes:
+Lenguajes y Frameworks:
 
 ![C#](https://img.shields.io/badge/-C%23-512bd4)
-![.NET](https://img.shields.io/badge/-.NET-512BD4)
-![EF](https://img.shields.io/badge/-Entity_Framework-512BD4)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-512BD4)
+![.NET](https://img.shields.io/badge/-.NET-512bd4)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512bd4)
+![SQL SERVER](https://img.shields.io/badge/-SQL_Server-512bd4)
 
-Arquitecturas y patrones:
+Arquitecturas y Patrones:
 
 ![API Rest](https://img.shields.io/badge/-API_Rest-546872)
 ![SOLID](https://img.shields.io/badge/-SOLID-546872)
@@ -23,17 +27,21 @@ Arquitecturas y patrones:
 ![CQRS](https://img.shields.io/badge/-CQRS-546872)
 ![DDD](https://img.shields.io/badge/-DDD-546872)
 
-Herramientas:
+DevOps y Colaboración:
 
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0052CC)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0052CC)
+![Docker](https://img.shields.io/badge/-Docker-0052CC)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF)
-![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-087cd5)
-![Git](https://img.shields.io/badge/-Git-F05032)
+![Git](https://img.shields.io/badge/-Git-0052CC)
 
+### ⭐️ Proyectos Destacados
+
+- [**appointments-project**](https://github.com/juanestebanrivera/appointments-project): Minimal API RESTful para la gestión de citas, desarrollada en .NET 10, utilizando Clean Architecture, CQRS y DDD. Incluye pruebas unitarias con xUnit y workflow de CI/CD con GitHub Actions.
 
 <h2 align="center">Conecta conmigo 🤝</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/juanestebanrivera" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/-LinkedIn-116ac3" width="90" />
     </a>
 </p>
