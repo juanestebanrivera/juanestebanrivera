@@ -37,7 +37,7 @@ DevOps y Colaboración:
 
 ### Proyecto destacado
 
-- [**Gestor de citas**](https://github.com/juanestebanrivera/appointments-project): Minimal API RESTful para la gestión de citas, desarrollada en .NET 10, utilizando Clean Architecture, CQRS y DDD. Incluye pruebas unitarias con xUnit y workflow de CI/CD con GitHub Actions.
+- [**Gestión de citas de servicio**](https://github.com/juanestebanrivera/service-appointment-management): Minimal API RESTful para la gestión de citas de servicios en .NET 10, utilizando Clean Architecture, CQRS y DDD. Incluye dockerización, pruebas unitarias con xUnit y workflow de CI/CD con GitHub Actions.
 
 <h2 align="center">Conecta conmigo 🤝</h2>
 <p align="center">
