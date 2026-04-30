@@ -35,9 +35,9 @@ DevOps y Colaboración:
 ![Jira](https://img.shields.io/badge/-Jira-0052CC)
 ![Git](https://img.shields.io/badge/-Git-0052CC)
 
-### ⭐️ Proyectos Destacados
+### Proyecto destacado
 
-- [**appointments-project**](https://github.com/juanestebanrivera/appointments-project): Minimal API RESTful para la gestión de citas, desarrollada en .NET 10, utilizando Clean Architecture, CQRS y DDD. Incluye pruebas unitarias con xUnit y workflow de CI/CD con GitHub Actions.
+- [**Gestor de citas**](https://github.com/juanestebanrivera/appointments-project): Minimal API RESTful para la gestión de citas, desarrollada en .NET 10, utilizando Clean Architecture, CQRS y DDD. Incluye pruebas unitarias con xUnit y workflow de CI/CD con GitHub Actions.
 
 <h2 align="center">Conecta conmigo 🤝</h2>
 <p align="center">
